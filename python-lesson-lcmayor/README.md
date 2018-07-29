@@ -1,1 +1,0 @@
-Materials in this folder were created by [Laura C. Mayorga](https://github.com/lcmayor) and will be used to demonstrate how to [make code citable](https://guides.github.com/activities/citable-code/) using the Zenodo/GitHub integration.
