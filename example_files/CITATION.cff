@@ -1,0 +1,13 @@
+cff-version: 1.0.3
+authors:
+  - family-names: Potterbusch
+    given-names: Megan
+    orcid: https://orcid.org/0000-0001-8518-5259
+  - family-names: Bouquin
+    given-names: Daina
+    orcid: https://orcid.org/0000-0003-2626-3688
+title: JMSDataLinking
+version: 1.0
+doi: 10.5281/zenodo.47260
+date-released: 2016-03-09
+repository-code: https://github.com/LibrarPotter/JMSDataLinking/tree/v1.0
