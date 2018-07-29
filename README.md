@@ -1,0 +1,1 @@
+Tutorial materials on code citation and archiving presented to students participating in the 2018 [Smithsonian Astrophysical Observatory Latino Initiative](https://www.cfa.harvard.edu/opportunities/lsamp/). Slides also available online [here](https://slides.com/dbouquin/latino_init_2018). 
